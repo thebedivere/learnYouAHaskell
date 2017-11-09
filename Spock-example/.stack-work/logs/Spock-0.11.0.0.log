@@ -1,0 +1,13 @@
+Configuring Spock-0.11.0.0...
+Preprocessing library Spock-0.11.0.0...
+[1 of 7] Compiling Web.Spock.Internal.Types ( src/Web/Spock/Internal/Types.hs, .stack-work/dist/x86_64-linux/Cabal-1.22.5.0/build/Web/Spock/Internal/Types.o )
+[2 of 7] Compiling Web.Spock.Internal.SessionVault ( src/Web/Spock/Internal/SessionVault.hs, .stack-work/dist/x86_64-linux/Cabal-1.22.5.0/build/Web/Spock/Internal/SessionVault.o )
+[3 of 7] Compiling Web.Spock.Config ( src/Web/Spock/Config.hs, .stack-work/dist/x86_64-linux/Cabal-1.22.5.0/build/Web/Spock/Config.o )
+[4 of 7] Compiling Web.Spock.Internal.SessionManager ( src/Web/Spock/Internal/SessionManager.hs, .stack-work/dist/x86_64-linux/Cabal-1.22.5.0/build/Web/Spock/Internal/SessionManager.o )
+[5 of 7] Compiling Web.Spock.Internal.Monad ( src/Web/Spock/Internal/Monad.hs, .stack-work/dist/x86_64-linux/Cabal-1.22.5.0/build/Web/Spock/Internal/Monad.o )
+[6 of 7] Compiling Web.Spock.SessionActions ( src/Web/Spock/SessionActions.hs, .stack-work/dist/x86_64-linux/Cabal-1.22.5.0/build/Web/Spock/SessionActions.o )
+[7 of 7] Compiling Web.Spock        ( src/Web/Spock.hs, .stack-work/dist/x86_64-linux/Cabal-1.22.5.0/build/Web/Spock.o )
+In-place registering Spock-0.11.0.0...
+Installing library in
+/data/git/learnYouAHaskell/Spock-example/.stack-work/install/x86_64-linux/lts-6.13/7.10.3/lib/x86_64-linux-ghc-7.10.3/Spock-0.11.0.0-BKhQybaZsvyJQ9S1rQRY43
+Registering Spock-0.11.0.0...
